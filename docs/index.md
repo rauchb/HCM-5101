@@ -4,13 +4,19 @@ title: Introduction
 nav_order: 1
 ---
 
-## Welcome to the Wiki
+## Introduction
 
-You can use the [[1]](https://github.com/rauchb/HCM-5101/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Created by:** Bridget Rauch  
 
-### Topic
+*This wiki was created for the individual project of HCM-5101, Fall 2020.*  
 
-The wiki 
+### Navigation
+
+Navigate between pages of the wiki using the headers listed on the left-hand side.
+
+### Contents
+
+This wiki covers the topic of public reporting, with a deep dive into reporting of harm metrics such as HAIs (Hospital Acquired Infections) in the Commonwealth of Pennsylvania.
 
 ### Source Files
-To view the markdown files (`.md`) used to generate this wiki, go to the [GitHub repository](https://github.com/rauchb/HCM-5101). 
+The markdown files (`.md`) used to generate this wiki are stored in the  [rauchb/HCM-5101](https://github.com/rauchb/HCM-5101) public GitHub repository. 
