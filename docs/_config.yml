@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: This is the Title
-description: This is the description in the yml file.
+title: "This is the Title"
+description: "This is the description in the yml file."
 
 search_enabled: true
 
