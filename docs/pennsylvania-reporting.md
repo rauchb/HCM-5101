@@ -27,6 +27,8 @@ In 2007, Pennsylvania passed the **Medical Care Availability and Reduction of Er
 >for Pennsylvania" plan to reduce and eliminate healthcare associated infections.  
 >-_Quoted from PA Bulletin Notice_ [[7]](https://rauchb.github.io/HCM-5101/sources.html#7)
 
+This act, passed within 12 months of the first PHC4 report is clear commitment by the Pennsylvania government to react to the revealing data and prevent future harm.
+
 ### HAI Improvement
 Since the initial report released by PHC4, the HAI infection rate has decreased to 11.3/1000 cases. [[8]](https://rauchb.github.io/HCM-5101/sources.html#8) The Hospital of the University of Pennsylvania, which has approximately 70,000 central line patient days annually, reduced the associated infection rate by 30% in a single year. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
 
