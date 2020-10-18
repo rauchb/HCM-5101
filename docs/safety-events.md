@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Disclosure of Saftey Events
-parent: Public Reporting
-nav_order: 1
+title: Harm and HAIs
+nav_order: 3
 ---
 
 ## Safety Events
