@@ -9,7 +9,7 @@ nav_order: 4
 Pennsylvania was the first state to publically report the volume and cost of healthcare-associated infections. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) All state reports of HAIs and HAI prevention plans are also published by the CDC at [cdc.gov/hai/stateplans/](https://www.cdc.gov/hai/stateplans/state-hai-plans/pa.html).
 
 ### PHC4 Report (2005)
- The Pennsylvania Health Care Cost Containment Council (PHC4) released the first state-wide HAI report in 2006 (for 2005 calendar year). [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) This report contained the following data:
+ The Pennsylvania Health Care Cost Containment Council (PHC4) released the first state-wide HAI report in 2006 (for 2005 calendar year). [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) This summarized the HAI prevelency and impact in Pennsylvania:
 - Infection rate of 12.2/1000 cases
 - 394,000 infection-related hospital days
 - $3.5B in hospital charges
@@ -24,16 +24,13 @@ In 2007, Pennsylvania passed the **Medical Care Availability and Reduction of Er
 >and the Pennsylvania Patient Safety Authority through the Centers for Disease Control and Prevention's 
 >National Healthcare Safety Network (NHSN) for hospitals Pennsylvania Patient Safety Reporting System 
 >(PA-PSRS) an electronic reporting system for nursing homes. The Act is part of the Governor's "Prescription 
->for Pennsylvania" plan to reduce and eliminate healthcare associated infections.
-_Quoted from PA Bulleting Notice_ [[7]](https://rauchb.github.io/HCM-5101/sources.html#7)
+>for Pennsylvania" plan to reduce and eliminate healthcare associated infections.  
+>-_Quoted from PA Bulletin Notice_ [[7]](https://rauchb.github.io/HCM-5101/sources.html#7)
 
-### Since 2007
+### HAI Improvement
+Since the initial report released by PHC4, the HAI infection rate has decreased to 11.3/1000 cases. [[8]](https://rauchb.github.io/HCM-5101/sources.html#8) The Hospital of the University of Pennsylvania, which has approximately 70,000 central line patient days annually, reduced the associated infection rate by 30% in a single year. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
 
-UPenn has approximately 70,000 central line patient days annually, reduced the associated infection rate by 30% in a single year. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
+Despite these improvements, heathcare-associated infections still represent significant harm among patients in Pennsylvania. The 2010 PHC4 report (released in 2012) quantified the negative impacts of HAIs including increased mortality rate (9.1%, compared to 1.7% without an HAI), increased average length of stay (21.9, compared to 5.0 days without an HAI), and readmission rates within 30 days (41.9%, compared to 16.3% without an HAI). [[8]](https://rauchb.github.io/HCM-5101/sources.html#8) 
 
-Released in 2012 (for 2010 calendar year)
-- Infection rate of 11.3/1000 cases
-- Mortality rate with HAI was 9.1% (compared to 1.7% without an HAI)
-- ALOS with 21.9 days with HAI (compared to 5.0 days without)
-- 41.9% of patients with an HAI has a readmission within 30 days (16.3% readmissions rate without) [[8]](https://rauchb.github.io/HCM-5101/sources.html#8) 
+While public reporting has led to some improvements in patient safety, interventions and harm mitigation initiatives should be a continued focus. 
 
