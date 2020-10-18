@@ -4,16 +4,21 @@ title: Pennsylvania
 nav_order: 4
 ---
 
-
 ## Pennsylania Reporting
 
 PA reporting of harm KPIs.
 
-#### ACT 52  
+### ACT 52  
+In 2007, Pennsylvania passed the 
 
 MEDICAL CARE AVAILABILITY AND REDUCTION OF ERROR (MCARE) ACT - Reduction and Prevention of Health Care-Associated Infection and Long-Term Care Nursing Facilities [[6]](https://rauchb.github.io/HCM-5101/sources.html#6)[[7]](https://rauchb.github.io/HCM-5101/sources.html#7)
-```markdown
-Act 52 of 2007 requires certain healthcare facilities in Pennsylvania to report healthcare-associated infections to the Pennsylvania Department of Health, the Pennsylvania Healthcare Cost Containment Council and the Pennsylvania Patient Safety Authority through the Centers for Disease Control and Prevention's National Healthcare Safety Network (NHSN) for hospitals Pennsylvania Patient Safety Reporting System (PA-PSRS) an electronic reporting system for nursing homes. The Act is part of the Governor's "Prescription for Pennsylvania" plan to reduce and eliminate healthcare associated infections.
+```
+Act 52 of 2007 requires certain healthcare facilities in Pennsylvania to report healthcare-associated
+infections to the Pennsylvania Department of Health, the Pennsylvania Healthcare Cost Containment Council 
+and the Pennsylvania Patient Safety Authority through the Centers for Disease Control and Prevention's 
+National Healthcare Safety Network (NHSN) for hospitals Pennsylvania Patient Safety Reporting System 
+(PA-PSRS) an electronic reporting system for nursing homes. The Act is part of the Governor's "Prescription 
+for Pennsylvania" plan to reduce and eliminate healthcare associated infections.
 ```
 Pennsylvania was the first state to publically report the volume and cost of hospital-acquired infections. The report was released by the Pennsylvania Health Care Cost Containment Council (PHC4) in 2006 (for 2005 calendar year) [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
 - Infection rate of 12.2/1000 cases

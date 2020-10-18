@@ -26,3 +26,5 @@ PHC4. (2012, February). The Impact of Healthcare-associated Infections in Pennsy
 Pronovost, P. (2008, August). Improving the Value of Patient Safety Reporting Systems. Retrieved from [https://www.ncbi.nlm.nih.gov/books/NBK43621/](https://www.ncbi.nlm.nih.gov/books/NBK43621/)
 #### [10]	
 Shi, L., & Singh, D. A. (2019). Essentials of the U.S. Health Care System (Fifth ed.). Burlington, MA: Jones & Bartlett Learning.
+#### [11]
+Totten, A. M., Wagner, J., Tiwari, A., O'Haire, C., Griffin, J., &amp; Walker, M. (2012, July). Closing the Quality Gap: Revisiting the State of the Science (Vol. 5: Public Reporting as a Quality Improvement Strategy). Retrieved from [https://www.ncbi.nlm.nih.gov/books/NBK99879/](https://www.ncbi.nlm.nih.gov/books/NBK99879/)
