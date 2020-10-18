@@ -10,15 +10,16 @@ In a healthcare setting, safety emphasizes the absence of medical errors, specif
 In a 2005 analysis, harm was found to be most associated with therapeutic intent of an activity, language barriers, errors of judgement, communication from another office, mistiming of procedure, and medication errors. [[10]](https://rauchb.github.io/HCM-5101/sources.html#10) 
 
 ### Types of Safety Events
-Safety events are typically classified into three categories, depending on the severity and impact to the patient. [[3]](https://rauchb.github.io/HCM-5101/sources.html#3) 
-| Safety Event | Severity | Description
+Safety events are typically classified into three categories, depending on the severity and impact to the patient. [[3]](https://rauchb.github.io/HCM-5101/sources.html#3)  
+
+| Safety Event | Severity | Description |
 |---|---|---|
 | Medical error | Low | A mistake that did not affect the patient's health |
 | Near-miss | Medium | A potential adverse event identified before it caused harm to the patient |
-| Adverse ebent | High | A patient's health was negatively impacted as a result of healthcare professionals |
+| Adverse event | High | A patient's health was negatively impacted as a result of healthcare professionals |
 
 ### Disclosure of Preventable Harm
 
-Hospitals, especially those with major concerns for malpractice implications, were less likely to disclose preventable harm outcomes, compared to non-preventable outcomes of comparable severity. [[4]](https://rauchb.github.io/HCM-5101/sources.html#4)
+Hospitals, especially those with major concerns for malpractice implications, were less likely to disclose preventable harm outcomes, compared to non-preventable outcomes of comparable severity. [[4]](https://rauchb.github.io/HCM-5101/sources.html#4) This tendency would effect the accuracy of public reporting, and inhibit the abilize to accurate analyze the most common causes of preventable harm. 
 
 ## Hospital-Acquired Infections
