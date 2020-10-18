@@ -12,7 +12,7 @@ nav_order: 1
 
 ### Navigation
 
-Navigate between pages of the wiki using the headers listed on the left-hand side.
+Navigate between pages of the wiki using the headers listed to the left on a desktop/tablet and in the top-right corner on a mobile device.
 
 ### Content
 
