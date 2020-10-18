@@ -15,7 +15,7 @@ Enables safety specializes to investigate, identify underlying factors, and miti
 Quality measures that are publicly reported improve over time. [[11]](https://rauchb.github.io/HCM-5101/sources.html#11) 
 
 
-![Figure A](https://github.com/rauchb/HCM-5101/blob/main/images/figure-a.png)
-_Figure A._ [[11]](https://rauchb.github.io/HCM-5101/sources.html#11)  
+![](https://github.com/rauchb/HCM-5101/blob/main/images/figure-a.png)  
+_Figure A_ [[11]](https://rauchb.github.io/HCM-5101/sources.html#11)  
 
 This is additional text

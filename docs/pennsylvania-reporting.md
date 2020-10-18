@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Pennsylvania
+title: Reporting in Pennsylvania
 nav_order: 4
 ---
 
-## Pennsylania Reporting
+## Public Reporting in Pennsylvania
 
-PA reporting of harm KPIs.
+Pennsylvania was the first state to publically report the volume and cost of hospital-acquired infections. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
 
 ### ACT 52  
 In 2007, Pennsylvania passed the 
@@ -20,7 +20,7 @@ National Healthcare Safety Network (NHSN) for hospitals Pennsylvania Patient Saf
 (PA-PSRS) an electronic reporting system for nursing homes. The Act is part of the Governor's "Prescription 
 for Pennsylvania" plan to reduce and eliminate healthcare associated infections.
 ```
-Pennsylvania was the first state to publically report the volume and cost of hospital-acquired infections. The report was released by the Pennsylvania Health Care Cost Containment Council (PHC4) in 2006 (for 2005 calendar year) [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
+ The report was released by the Pennsylvania Health Care Cost Containment Council (PHC4) in 2006 (for 2005 calendar year) [[1]](https://rauchb.github.io/HCM-5101/sources.html#1) 
 - Infection rate of 12.2/1000 cases
 - 394,000 infection-related hospital days
 - $3.5B in hospital charges

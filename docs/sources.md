@@ -9,7 +9,7 @@ nav_order: 6
 #### [1]	
 The Commonwealth Fund. (2007). Pennsylvania's Public Reporting of Hospital-Acquired Infections: How Are Hospitals Addressing the Issue? Retrieved October 12, 2020, from [https://www.commonwealthfund.org/publications/newsletter-article/pennsylvanias-public-reporting-hospital-acquired-infections-how-are](https://www.commonwealthfund.org/publications/newsletter-article/pennsylvanias-public-reporting-hospital-acquired-infections-how-are)
 #### [2]	
-Kohn L T, Corrigan J M, Donaldson MS (2000) To err is human: building a safer health system. Washington, DC: National Academy Press. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2464859/#ref4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2464859/#ref4)
+Kohn L T, Corrigan J M, Donaldson MS (2000) To err is human: building a safer health system. Washington, DC: National Academy Press. Retrieved from [https://dx.doi.org/10.1136%2Fqshc.2006.017947](https://dx.doi.org/10.1136%2Fqshc.2006.017947)
 #### [3]
 Kuo, Y., Lee, T., Mills, M. E., & Lin, K. (2012). The Evaluation of a Web-Based Incident Reporting System. CIN: Computers, Informatics, Nursing, 30(7), 386-394. doi:10.1097/nxn.0b013e31825106ea
 #### [4]

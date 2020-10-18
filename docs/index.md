@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-## Welcome
+## Introduction
 
 **Created by:** Bridget Rauch  
 
@@ -14,7 +14,7 @@ nav_order: 1
 
 Navigate between pages of the wiki using the headers listed on the left-hand side.
 
-### Contents
+### Content
 
 This wiki covers the topic of public reporting, with a deep dive into reporting of harm metrics such as HAIs (Hospital Acquired Infections) in the Commonwealth of Pennsylvania.
 
