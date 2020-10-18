@@ -21,7 +21,7 @@ MEDICAL CARE AVAILABILITY AND REDUCTION OF ERROR (MCARE) ACT, Pennsylvania Gener
 #### [7]	
 Pennsylvania Patient Safety Authority. (2007, July). Act 52: Governance. Retrieved from [http://patientsafety.pa.gov/PatientSafetyAuthority/Governance/Pages/Act52.aspx](http://patientsafety.pa.gov/PatientSafetyAuthority/Governance/Pages/Act52.aspx)
 #### [8]	
-PHC4. (2012, February). The Impact of Healthcare-associated Infections in Pennsylvania 2010. Retrieved from [http://www.phc4.org/reports/hai/10/nr022412.htm](http://www.phc4.org/reports/hai/10/nr022412.htm)
+PHC4. (2012, February). The Impact of Healthcare-associated Infections in Pennsylvania 2010. Retrieved from [http://www.phc4.org/reports/hai/10/default.htm](http://www.phc4.org/reports/hai/10/default.htm)
 #### [9]	
 Pronovost, P. (2008, August). Improving the Value of Patient Safety Reporting Systems. Retrieved from [https://www.ncbi.nlm.nih.gov/books/NBK43621/](https://www.ncbi.nlm.nih.gov/books/NBK43621/)
 #### [10]	

@@ -22,4 +22,5 @@ Safety events are typically classified into three categories, depending on the s
 
 Hospitals, especially those with major concerns for malpractice implications, were less likely to disclose preventable harm outcomes, compared to non-preventable outcomes of comparable severity. [[4]](https://rauchb.github.io/HCM-5101/sources.html#4) This tendency would effect the accuracy of public reporting, and inhibit the abilize to accurate analyze the most common causes of preventable harm. 
 
-## Hospital-Acquired Infections
+## Healthcare-Associated Infections
+Healthcare-associated infections (HAIs) are caused by devices used in medical procedures or in the course of treatment by a healthcare professional. [[8]](https://rauchb.github.io/HCM-5101/sources.html#8) The most common HAIs are central line-associated bloodstream infection (CLABSI), catheter-associated urinary-tract infections (CAUTI), and surgical site infection (SSI). Since there is a negative impact on the patient's health, a HAI is considered a safety event. 
